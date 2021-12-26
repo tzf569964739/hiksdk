@@ -1,0 +1,6 @@
+﻿  realPlayDlg.cpp
+e:\hik\ch-hcnetsdkv6.1.6.45_build20210302_win32_20210508182038\ch-hcnetsdkv6.1.6.45_build20210302_win32\头文件\hcnetsdk.h(1898): warning C4005: “ZOOM_IN”: 宏重定义
+  e:\vs2017\vc\tools\msvc\14.16.27023\atlmfc\include\afxpriv.h(475): note: 参见“ZOOM_IN”的前一个定义
+e:\hik\ch-hcnetsdkv6.1.6.45_build20210302_win32_20210508182038\ch-hcnetsdkv6.1.6.45_build20210302_win32\头文件\hcnetsdk.h(1899): warning C4005: “ZOOM_OUT”: 宏重定义
+  e:\vs2017\vc\tools\msvc\14.16.27023\atlmfc\include\afxpriv.h(473): note: 参见“ZOOM_OUT”的前一个定义
+  realPlay.vcxproj -> E:\hiksdk\realPlay\Debug\realPlay.exe
